@@ -3,4 +3,4 @@ U can text me in dicord to invite to my company https://github.com/93volt-organi
 Discord server: https://discord.gg/uaDrNjXHvt nikname: `_windy_bindy_`
 
 
-  ![Image alt](https://github.com/WindyBindy/WindyBindy/blob/main/gif.gif) ![Image alt](https://github.com/WindyBindy/WindyBindy/blob/main/weather.gif)
+  ![Image alt](https://github.com/WindyBindy/WindyBindy/blob/main/Без%20названия.jpg) 
