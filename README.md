@@ -17,5 +17,4 @@ https://github.com/pozeratel/HellEn .................................[ HTML5, CS
 
 
   ![Image alt](https://github.com/WindyBindy/WindyBindy/blob/main/Снимок%20экрана%202024-11-09%20175529.png)
-
   ![Image alt](https://github.com/WindyBindy/WindyBindy/blob/main/Без%20названия.jpg) 
