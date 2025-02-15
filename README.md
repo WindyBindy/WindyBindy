@@ -6,7 +6,7 @@
 
 I'm Windy Bindy, frontend developer.
 
-U can text me in dicord to invite to my company https://github.com/93volt-organisation.
+U can text me in discord to invite to my company https://github.com/93volt-organisation.
 Discord server: https://discord.gg/uaDrNjXHvt nikname: `_windy_bindy_`
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WindyBindy&theme=dark)](https://github.com/WindyBindy/github-readme-stats)
