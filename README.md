@@ -15,7 +15,11 @@ Discord server: https://discord.gg/uaDrNjXHvt nikname: `_windy_bindy_`
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WindyBindy&theme=dark)](https://github.com/WindyBindy/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WindyBindy&layout=compact&theme=dark)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=windybindy)](https://github.com/WindyBindy/github-readme-stats)
+
 [![wakatime](https://wakatime.com/badge/user/eefc70be-2896-47d0-80b4-ccdfa19cddd5.svg)](https://wakatime.com/@eefc70be-2896-47d0-80b4-ccdfa19cddd5)
+
+
 
 Social:
 
