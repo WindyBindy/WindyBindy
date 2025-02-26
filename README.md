@@ -33,6 +33,8 @@ https://github.com/WindyBindy/webstudio123 ...........[ HTML5, CSS3, SCSS ]
 
 https://github.com/pozeratel/HellEn .................................[ HTML5, CSS3, SCSS ]
 
+https://github.com/WindyBindy/XZ-studio-web ............[ HTML5, CSS3, SCSS ]
+
 
   ![Image alt](https://github.com/WindyBindy/WindyBindy/blob/main/Снимок%20экрана%202024-11-09%20175529.png)
 
