@@ -1,8 +1,4 @@
-==================================================
 
-   _<----------------------—--_-WindyBindy-_-—---------------------->_
- 
-==================================================
 
 # About Me:
 I'm Windy Bindy, frontend developer.<br> I love playing computer games and <br>playing basketball.
