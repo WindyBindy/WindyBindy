@@ -11,7 +11,7 @@ nikname: `_windy_bindy_`
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=windybindy&cache_seconds=60)](https://github.com/WindyBindy/github-readme-stats)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WindyBindy&layout=compact&theme=dark)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=_Windy_Bindy_&theme=dark&hide_border=false)<br/>
-[![wakatime](https://wakatime.com/badge/user/eefc70be-2896-47d0-80b4-ccdfa19cddd5.svg)](https://wakatime.com/@eefc70be-2896-47d0-80b4-ccdfa19cddd5)<br/>
+
 
 
 
