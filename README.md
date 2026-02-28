@@ -27,9 +27,9 @@ https://github.com/WindyBindy/type-editor ............[ HTML5, CSS3, SCSS, JS ]
 https://github.com/WindyBindy/-VcN-cmd-calculator .................... [ Java ]
 
 
-## 💬 Стенка (Guestbook)
+## 💬 Comments
 
-[![GitHub Guestbook](https://view-counter.pypa.io/badge/comments-WindyBindy-blue)](https://github.com/WindyBindy/WindyBindy/discussions/1)
+[![GitHub discutions](https://view-counter.pypa.io/badge/comments-WindyBindy-blue)](https://github.com/WindyBindy/WindyBindy/discussions/1)
 
 ---
 > [!TIP]
