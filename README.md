@@ -27,20 +27,10 @@ https://github.com/WindyBindy/type-editor ............[ HTML5, CSS3, SCSS, JS ]
 https://github.com/WindyBindy/-VcN-cmd-calculator .................... [ Java ]
 
 
- <script src="https://giscus.app/client.js"
-        data-repo="WindyBindy/WindyBindy"
-        data-repo-id="R_kgDOJo4_4Q"
-        data-category="[ENTER CATEGORY NAME HERE]"
-        data-category-id="[ENTER CATEGORY ID HERE]"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
+## 💬 Стенка (Guestbook)
 
+[![GitHub Guestbook](https://view-counter.pypa.io/badge/comments-WindyBindy-blue)](https://github.com/WindyBindy/WindyBindy/discussions/1)
 
+---
+> [!TIP]
+> **[click here to make a comment!](https://github.com/WindyBindy/WindyBindy/discussions/1)**
