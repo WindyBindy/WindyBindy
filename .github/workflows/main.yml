@@ -1,0 +1,18 @@
+name: Guestbook
+on:
+  issue_comment:
+    types: [created]
+  workflow_dispatch:
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update Guestbook
+        uses: muesli/readme-guestbook@master
+        with:
+          count: 10
+          template: "> _{{ .Content }}_ — **@{{ .User.Login }}**"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
