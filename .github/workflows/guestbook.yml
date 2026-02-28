@@ -1,0 +1,18 @@
+name: Update Guestbook
+on:
+  discussion_comment:
+    types: [created, deleted]
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update Guestbook
+        uses: sarisia/actions-readme-feed@v1
+        with:
+          url: 'https://github.com/WindyBindy/WindyBindy/discussions/1'
+          file: 'README.md'
+          start_tag: ''
+          end_tag: ''
